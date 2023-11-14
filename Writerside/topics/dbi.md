@@ -9,7 +9,7 @@ die Beschreibung, das Start- und Fälligkeitsdatum sowie den Status angeben <br>
 
 ## Entwurfsphase
 
-<img  src="img.png"  alt="Er Diagramm"/>
+<img  src="images/img.png"  alt="Er Diagramm"/>
 
 **Datenkatalog:** <br></br>
 Aufgaben ID: Eindeutige Kennung für jede Aufgabe (Primärschlüssel).<br>
